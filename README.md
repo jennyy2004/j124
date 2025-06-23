@@ -4,4 +4,4 @@ I would assume most people recline their seat as a form of luxury and it's allow
 However, I was shocked to see the results were scattered amongst categories ranging from never to always. 
 With 5 different categories, even though "once in a while" had the most responses, the other options were quite scattered. 
 
-![alt text](image.jpg)
+![alt text](CATVx-frequency-of-flight-passengers-reclining-their-seat-nbsp-.png)
